@@ -20,6 +20,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
     DataSource dataSource;
 ////hfgf
     //fdfsfds
+    //new added
     @Override
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {
 

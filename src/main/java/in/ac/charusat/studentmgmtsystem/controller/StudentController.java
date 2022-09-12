@@ -23,7 +23,7 @@ public class StudentController {
 //                    new Student(3, "Nick", "UK")
 //            )
 //    );
-
+//this was
     // Mappings - URL endpoints
     // Get the list of all student
     @GetMapping
